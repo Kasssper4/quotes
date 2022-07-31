@@ -1,0 +1,966 @@
+[
+  {
+    "text": "Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live.",
+    "author": "Martin Golding"
+  },
+  {
+    "text": "Common sense gets a lot of credit that belongs to cold feet.",
+    "author": "Arthur Godfrey"
+  },
+  {
+    "text": "Any fool can use a computer. Many do.",
+    "author": "Ted Nelson"
+  },
+  {
+    "text": "Hate cannot drive out hate; only love can do that.",
+    "author": "Martin Luther King Junior"
+  },
+  {
+    "text": "First, solve the problem. Then, write the code.",
+    "author": "John Johnson"
+  },
+  {
+    "text": "Experience is the name everyone gives to their mistakes.",
+    "author": "Oscar Wilde"
+  },
+  {
+    "text": "Every piece of software written today is likely going to infringe on someone else’s patent.",
+    "author": "Miguel de Icaza"
+  },
+  {
+    "text": "I love deadlines. I like the whooshing sound they make as they fly by.",
+    "author": "Douglas Adams"
+  },
+  {
+    "text": "I think we agree, the past is over.",
+    "author": "George W. Bush"
+  },
+  {
+    "text": "In order to be irreplaceable, one must always be different.",
+    "author": "Coco Chanel"
+  },
+  {
+    "text": "In the future everyone will be famous for fifteen minutes.",
+    "author": "Andy Warhol"
+  },
+  {
+    "text": "In three words I can sum up everything I’ve learned about life: it goes on.",
+    "author": "Robert Frost"
+  },
+  {
+    "text": "It is a mistake to think you can solve any major problems just with potatoes.",
+    "author": "Douglas Adams"
+  },
+  {
+    "text": "It’s kind of fun to do the impossible.",
+    "author": "Walt Disney"
+  },
+  {
+    "text": "Java is to JavaScript what Car is to Carpet.",
+    "author": "Chris Heilmann"
+  },
+  {
+    "text": "Judge a man by his questions rather than by his answers.",
+    "author": "Voltaire"
+  },
+  {
+    "text": "Just don’t create a file called -rf.",
+    "author": "Larry Wall"
+  },
+  {
+    "text": "Knowledge is power.",
+    "author": "Francis Bacon"
+  },
+  {
+    "text": "Let’s call it an accidental feature.",
+    "author": "Larry Wall"
+  },
+  {
+    "text": "Linux is only free if your time has no value.",
+    "author": "Jamie Zawinski"
+  },
+  {
+    "text": "Measuring programming progress by lines of code is like measuring aircraft building progress by weight.",
+    "author": "Bill Gates"
+  },
+  {
+    "text": "Never trust a computer you can’t throw out a window.",
+    "author": "Steve Wozniak"
+  },
+  {
+    "text": "Nobody expects the Spanish inquisition.",
+    "author": "Monty Python"
+  },
+  {
+    "text": "On the Internet, nobody knows you’re a dog.",
+    "author": "Peter Steiner"
+  },
+  {
+    "text": "One man’s constant is another man’s variable.",
+    "author": "Alan J. Perlis"
+  },
+  {
+    "text": "People that hate cats will come back as mice in their next life.",
+    "author": "Faith Resnick"
+  },
+  {
+    "text": "Perl - The only language that looks the same before and after RSA encryption.",
+    "author": "Keith Bostic"
+  },
+  {
+    "text": "PHP – Yeah, you know me.",
+    "author": "PHPaughty by PHPature"
+  },
+  {
+    "text": "The future is here. It is just not evenly distributed yet.",
+    "author": "William Gibson"
+  },
+  {
+    "text": "The greatest performance improvement of all is when a system goes from not-working to working.",
+    "author": "John Ousterhout"
+  },
+  {
+    "text": "Software is like sex: It’s better when it’s free.",
+    "author": "Linus Torvalds"
+  },
+  {
+    "text": "Sour, sweet, bitter, pungent, all must be tasted.",
+    "author": "Chinese Proverb"
+  },
+  {
+    "text": "Stay hungry, stay foolish.",
+    "author": "Whole Earth Catalog"
+  },
+  {
+    "text": "The artist belongs to his work, not the work to the artist.",
+    "author": "Novalis"
+  },
+  {
+    "text": "The only \"intuitive\" interface is the nipple. After that it’s all learned.",
+    "author": "Bruce Ediger"
+  },
+  {
+    "text": "The only completely consistent people are the dead.",
+    "author": "Aldous Huxley"
+  },
+  {
+    "text": "The problem with troubleshooting is that trouble shoots back.",
+    "author": "Unknown Author"
+  },
+  {
+    "text": "The three great virtues of a programmer: laziness, impatience, and hubris.",
+    "author": "Larry Wall"
+  },
+  {
+    "text": "Time is an illusion. Lunchtime doubly so.",
+    "author": "Douglas Adams"
+  },
+  {
+    "text": "When debugging, novices insert corrective code; experts remove defective code.",
+    "author": "Richard Pattis"
+  },
+  {
+    "text": "When in doubt, leave it out.",
+    "author": "Joshua Bloch"
+  },
+  {
+    "text": "Walking on water and developing software from a specification are easy if both are frozen.",
+    "author": "Edward V Berard"
+  },
+  {
+    "text": "We cannot learn without pain.",
+    "author": "Aristotle"
+  },
+  {
+    "text": "We have always been shameless about stealing great ideas.",
+    "author": "Steve Jobs"
+  },
+  {
+    "text": "You can kill a man but you can’t kill an idea.",
+    "author": "Medgar Evers"
+  },
+  {
+    "text": "You can never underestimate the stupidity of the general public.",
+    "author": "Scott Adams"
+  },
+  {
+    "text": "You must have chaos in your soul to give birth to a dancing star.",
+    "author": "Friedrich Nietzsche"
+  },
+  {
+    "text": "Without requirements or design, programming is the art of adding bugs to an empty \"text\" file.",
+    "author": "Louis Srygley"
+  },
+  {
+    "text": "Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday’s code.",
+    "author": "Dan Salomon"
+  },
+  {
+    "text": "You miss 100 percent of the shots you never take.",
+    "author": "Wayne Gretzky"
+  },
+  {
+    "text": "One of the biggest problems that software developers face is that technology changes rapidly. It is very hard to stay current.",
+    "author": "Vivek Wadhwa"
+  },
+  {
+    "text": "Ideas want to be ugly.",
+    "author": "Jason Santa Maria"
+  },
+  {
+    "text": "One man´s crappy software is another man´s full time job.",
+    "author": "Jessica Gaston"
+  },
+  {
+    "text": "It´s okay to figure out murder mysteries, but you shouldn´t need to figure out code. You should be able to read it.",
+    "author": "Steve McConnell"
+  },
+  {
+    "text": "Programming languages, like pizzas, come in only two sizes: too big and too small.",
+    "author": "Richard Pattis"
+  },
+  {
+    "text": "Programming today is a race between software engineers striving to build bigger and better idiot-proof programs, and the universe trying to produce bigger and better idiots. So far, the universe is winning.",
+    "author": "Rich Cook"
+  },
+  {
+    "text": "Plan to throw one (implementation) away; you will, anyhow.",
+    "author": "Fred Brooks"
+  },
+  {
+    "text": "Perfection (in design) is achieved not when there is nothing more to add, but rather when there is nothing more to take away.",
+    "author": "Antoine de Saint-Exupery"
+  },
+  {
+    "text": "Prolific programmers contribute to certain disaster.",
+    "author": "Niklaus Wirth"
+  },
+  {
+    "text": "Programming can be fun, so can cryptography; however they should not be combined.",
+    "author": "Kreitzberg and Shneiderman"
+  },
+  {
+    "text": "It´s better to wait for a productive programmer to become available than it is to wait for the first available programmer to become productive.",
+    "author": "Steve McConnell"
+  },
+  {
+    "text": "An organization that treats its programmers as morons will soon have programmers that are willing and able to act like morons only.",
+    "author": "Bjarne Stroustrup"
+  },
+  {
+    "text": "Real programmers can write assembly code in any language.",
+    "author": "Larry Wall"
+  },
+  {
+    "text": "The key to performance is elegance, not battalions of special cases.",
+    "author": "Jon Bentley, Doug McIlroy"
+  },
+  {
+    "text": "Inside every large program, there is a program trying to get out.",
+    "author": "C.A.R. Hoare"
+  },
+  {
+    "text": "A good way to stay flexible is to write less code.",
+    "author": "Pragmatic Programmer"
+  },
+  {
+    "text": "No matter what the problem is, it´s always a people problem.",
+    "author": "Gerald M. Weinberg"
+  },
+  {
+    "text": "Every big computing disaster has come from taking too many ideas and putting them in one place.",
+    "author": "Gordon Bell"
+  },
+  {
+    "text": "Adding manpower to a late software project makes it later!",
+    "author": "Fred Brooks"
+  },
+  {
+    "text": "The best way to get a project done faster is to start sooner",
+    "author": "Jim Highsmith"
+  },
+  {
+    "text": "Even the best planning is not so omniscient as to get it right the first time.",
+    "author": "Fred Brooks"
+  },
+  {
+    "text": "The best revenge is massive success.",
+    "author": "Frank Sinatra"
+  },
+  {
+    "text": "Reality itself is too obvious to be true.",
+    "author": "Jean Baudrillard"
+  },
+  {
+    "text": "Be yourself; everyone else is already taken.",
+    "author": "Oscar Wilde"
+  },
+  {
+    "text": "If there is no struggle, there is no progress.",
+    "author": "Frederick Douglass"
+  },
+  {
+    "text": "You have to learn the rules of the game. And then you have to play better than anyone else.",
+    "author": "Albert Einstein"
+  },
+  {
+    "text": "Learn from yesterday, live for today, hope for tomorrow. The important thing is not to stop questioning.",
+    "author": "Albert Einstein"
+  },
+  {
+    "text": "Insanity: doing the same thing over and over again and expecting different results.",
+    "author": "Albert Einstein"
+  },
+  {
+    "text": "A person who never made a mistake never tried anything new.",
+    "author": "Albert Einstein"
+  },
+  {
+    "text": "Logic will get you from A to B. Imagination will take you everywhere.",
+    "author": "Albert Einstein"
+  },
+  {
+    "text": "When the solution is simple, God is answering.",
+    "author": "Albert Einstein"
+  },
+  {
+    "text": "If you can´t explain it simply, you don´t understand it well enough.",
+    "author": "Albert Einstein"
+  },
+  {
+    "text": "If the facts don´t fit the theory, change the facts.",
+    "author": "Albert Einstein"
+  },
+  {
+    "text": "It is a miracle that curiosity survives formal education.",
+    "author": "Albert Einstein"
+  },
+  {
+    "text": "I only believe in statistics that I doctored myself.",
+    "author": "Winston S. Churchill?"
+  },
+  {
+    "text": "Men and nations behave wisely when they have exhausted all other resources.",
+    "author": "Abba Eban"
+  },
+  {
+    "text": "Success is not forever and failure isn´t fatal.",
+    "author": "Don Shula"
+  },
+  {
+    "text": "I have never let my schooling interfere with my education.",
+    "author": "Mark Twain"
+  },
+  {
+    "text": "The secret of getting ahead is getting started.",
+    "author": "Mark Twain"
+  },
+  {
+    "text": "Get your facts first, then you can distort them as you please.",
+    "author": "Mark Twain"
+  },
+  {
+    "text": "Apparently there is nothing that cannot happen today.",
+    "author": "Mark Twain"
+  },
+  {
+    "text": "Plans are worthless, but planning is everything.",
+    "author": "Dwight D. Eisenhower"
+  },
+  {
+    "text": "Before you marry a person you should first make them use a computer with slow Internet to see who they really are.",
+    "author": "Will Ferrell"
+  },
+  {
+    "text": "I just invent, then wait until man comes around to needing what I´ve invented.",
+    "author": "R. Buckminster Fuller"
+  },
+  {
+    "text": "The best way to make your dreams come true is to wake up.",
+    "author": "Muriel Siebert"
+  },
+  {
+    "text": "If you can't write it down in English, you can't code it.",
+    "author": "Peter Halpern"
+  },
+  {
+    "text": "Suspicion is healthy. It’ll keep you alive.",
+    "author": "Laurell K. Hamilton"
+  },
+  {
+    "text": "If your parents never had children, chances are you won’t, either.",
+    "author": "Dick Cavett"
+  },
+  {
+    "text": "Sometimes I think we´re alone in the universe & sometimes I think we´re not. In either case the idea is quite staggering",
+    "author": "Arthur C. Clarke"
+  },
+  {
+    "text": "Talk is cheap, show me the code!",
+    "author": "Linus Torvalds"
+  },
+  {
+    "text": "They did not know it was impossible, so they did it!",
+    "author": "Mark Twain"
+  },
+  {
+    "text": "You are what you share.",
+    "author": "Charles Leadbeater"
+  },
+  {
+    "text": "You want it in one line? Does it have to fit in 80 columns?",
+    "author": "Larry Wall"
+  },
+  {
+    "text": "The Internet? Is that thing still around?",
+    "author": "Homer Simpson"
+  },
+  {
+    "text": "The journey is the destination.",
+    "author": "Dan Eldon"
+  },
+  {
+    "text": "OO programming offers a sustainable way to write spaghetti code. It lets you accrete programs as a series of patches.",
+    "author": "Paul Graham"
+  },
+  {
+    "text": "Ruby is rubbish! PHP is phpantastic!",
+    "author": "Nikita Popov"
+  },
+  {
+    "text": "So long and thanks for all the fish!",
+    "author": "Douglas Adams"
+  },
+  {
+    "text": "If I had more time, I would have written a shorter letter.",
+    "author": "Cicero"
+  },
+  {
+    "text": "The best reaction to \"this is confusing, where are the docs\" is to rewrite the feature to make it less confusing, not write more docs.",
+    "author": "Jeff Atwood"
+  },
+  {
+    "text": "The older I get, the more I believe that the only way to become a better programmer is by not programming.",
+    "author": "Jeff Atwood"
+  },
+  {
+    "text": "\"That hardly ever happens\" is another way of saying \"it happens\".",
+    "author": "Douglas Crockford"
+  },
+  {
+    "text": "Hello, PHP, my old friend.",
+    "author": "Anna Debenham"
+  },
+  {
+    "text": "Organizations which design systems are constrained to produce designs which are copies of the communication structures of these organizations.",
+    "author": "Melvin Conway"
+  },
+  {
+    "text": "In design, complexity is toxic.",
+    "author": "Melvin Conway"
+  },
+  {
+    "text": "Good is the enemy of great, but great is the enemy of shipped.",
+    "author": "Jeffrey Zeldman"
+  },
+  {
+    "text": "Don't make the user provide information that the system already knows.",
+    "author": "Rick Lemons"
+  },
+  {
+    "text": "You're bound to be unhappy if you optimize everything.",
+    "author": "Donald E. Knuth"
+  },
+  {
+    "text": "If the programmers like each other, they play a game called 'pair programming'. And if not then the game is called 'peer review'.",
+    "author": "Anna Nachesa"
+  },
+  {
+    "text": "Simplicity is prerequisite for reliability.",
+    "author": "Edsger W. Dijkstra"
+  },
+  {
+    "text": "Focus on WHY instead of WHAT in your code will make you a better developer",
+    "author": "Jordi Boggiano"
+  },
+  {
+    "text": "The best engineers I know are artists at heart. The best designers I know are secretly technicians as well.",
+    "author": "Andrei Herasimchuk"
+  },
+  {
+    "text": "Poor management can increase software costs more rapidly than any other factor.",
+    "author": "Barry Boehm"
+  },
+  {
+    "text": "If you can't deploy your services independently then they aren't microservices.",
+    "author": "Daniel Bryant"
+  },
+  {
+    "text": "No one hates software more than software developers.",
+    "author": "Jeff Atwood"
+  },
+  {
+    "text": "The proper use of comments is to compensate for our failure to express ourself in code.",
+    "author": "Robert C. Martin"
+  },
+  {
+    "text": "Code is like humor. When you have to explain it, it's bad.",
+    "author": "Cory House"
+  },
+  {
+    "text": "Fix the cause, not the symptom.",
+    "author": "Steve Maguire"
+  },
+  {
+    "text": "Programmers are constantly making things more complicated than they need to be BECAUSE FUTURE. Fuck the future. Program for today.",
+    "author": "David Heinemeier Hansson"
+  },
+  {
+    "text": "People will realize that software is not a product; you use it to build a product.",
+    "author": "Linus Torvalds"
+  },
+  {
+    "text": "Design is choosing how you will fail.",
+    "author": "Ron Fein"
+  },
+  {
+    "text": "Focus is saying no to 1000 good ideas.",
+    "author": "Steve Jobs"
+  },
+  {
+    "text": "Code never lies, comments sometimes do.",
+    "author": "Ron Jeffries"
+  },
+  {
+    "text": "When making a PR to a major project, you have to \"sell\" that feature / contribution. You have to be convincing on why it belongs there. The maintainer is going to be the one babysitting that code forever.",
+    "author": "Taylor Otwell"
+  },
+  {
+    "text": "Be the change you wish was made. Share the lessons you wish you'd been taught. Make the sacrifices you wish others had made.",
+    "author": "David Heinemeier Hansson"
+  },
+  {
+    "text": "The only way to achieve flexibility is to make things as simple and easy to change as you can.",
+    "author": "Casey Brant"
+  },
+  {
+    "text": "The computer was born to solve problems that did not exist before.",
+    "author": "Bill Gates"
+  },
+  {
+    "text": "People don't care about what you say, they care about what you build.",
+    "author": "Mark Zuckerberg"
+  },
+  {
+    "text": "We will not ship shit.",
+    "author": "Robert C. Martin"
+  },
+  {
+quote: "Life isn’t about getting and having, it’s about giving and being.",
+author: "Kevin Kruse"
+},
+{
+quote: "Whatever the mind of man can conceive and believe, it can achieve.",
+author: "Napoleon Hill"
+},
+{
+quote: "Strive not to be a success, but rather to be of value.",
+author: "Albert Einstein"
+},
+{
+quote: "Two roads diverged in a wood, and I—I took the one less traveled by, And that has made all the difference.",
+author: "Robert Frost"
+},
+{
+quote: "I attribute my success to this: I never gave or took any excuse.",
+author: "Florence Nightingale"
+},
+{
+quote: "You miss 100% of the shots you don’t take.",
+author: "Wayne Gretzky"
+},
+{
+quote: "I’ve missed more than 9000 shots in my career. I’ve lost almost 300 games. 26 times I’ve been trusted to take the game winning shot and missed. I’ve failed over and over and over again in my life. And that is why I succeed.",
+author: "Michael Jordan"
+},
+{
+quote: "The most difficult thing is the decision to act, the rest is merely tenacity.",
+author: "Amelia Earhart"
+},
+{
+quote: "Every strike brings me closer to the next home run.",
+author: "Babe Ruth"
+},
+{
+quote: "Definiteness of purpose is the starting point of all achievement.",
+author: "W. Clement Stone"
+},
+{
+quote: "We must balance conspicuous consumption with conscious capitalism.",
+author: "Kevin Kruse"
+},
+{
+quote: "Life is what happens to you while you’re busy making other plans.",
+author: "John Lennon"
+},
+{
+quote: "We become what we think about.",
+author: "Earl Nightingale"
+},
+{
+quote: "Twenty years from now you will be more disappointed by the things that you didn’t do than by the ones you did do, so throw off the bowlines, sail away from safe harbor, catch the trade winds in your sails. Explore, Dream, Discover.",
+author: "Mark Twain"
+},
+{
+quote: "Life is 10% what happens to me and 90% of how I react to it.",
+author: "Charles Swindoll"
+},
+{
+quote: "The most common way people give up their power is by thinking they don’t have any.",
+author: "Alice Walker"
+},
+{
+quote: "The mind is everything. What you think you become.",
+author: "Buddha"
+},
+{
+quote: "The best time to plant a tree was 20 years ago. The second best time is now.",
+author: "Chinese Proverb"
+},
+{
+quote: "An unexamined life is not worth living.",
+author: "Socrates"
+},
+{
+quote: "Eighty percent of success is showing up.",
+author: "Woody Allen"
+},
+{
+quote: "Your time is limited, so don’t waste it living someone else’s life.",
+author: "Steve Jobs"
+},
+{
+quote: "Winning isn’t everything, but wanting to win is.",
+author: "Vince Lombardi"
+},
+{
+quote: "I am not a product of my circumstances. I am a product of my decisions.",
+author: "Stephen Covey"
+},
+{
+quote: "Every child is an artist. The problem is how to remain an artist once he grows up.",
+author: "Pablo Picasso"
+},
+{
+quote: "You can never cross the ocean until you have the courage to lose sight of the shore.",
+author: "Christopher Columbus"
+},
+{
+quote: "I’ve learned that people will forget what you said, people will forget what you did, but people will never forget how you made them feel.",
+author: "Maya Angelou"
+},
+{
+quote: "Either you run the day, or the day runs you.",
+author: "Jim Rohn"
+},
+{
+quote: "Whether you think you can or you think you can’t, you’re right.",
+author: "Henry Ford"
+},
+{
+quote: "The two most important days in your life are the day you are born and the day you find out why.",
+author: "Mark Twain"
+},
+{
+quote: "Whatever you can do, or dream you can, begin it. Boldness has genius, power and magic in it.",
+author: "Johann Wolfgang von Goethe"
+},
+{
+quote: "The best revenge is massive success.",
+author: "Frank Sinatra"
+},
+{
+quote: "People often say that motivation doesn’t last. Well, neither does bathing. That’s why we recommend it daily.",
+author: "Zig Ziglar"
+},
+{
+quote: "Life shrinks or expands in proportion to one’s courage.",
+author: "Anais Nin"
+},
+{
+quote: "If you hear a voice within you say “you cannot paint,” then by all means paint and that voice will be silenced.",
+author: "Vincent Van Gogh"
+},
+{
+quote: "There is only one way to avoid criticism: do nothing, say nothing, and be nothing.",
+author: "Aristotle"
+},
+{
+quote: "Ask and it will be given to you; search, and you will find; knock and the door will be opened for you.",
+author: "Jesus"
+},
+{
+quote: "The only person you are destined to become is the person you decide to be.",
+author: "Ralph Waldo Emerson"
+},
+{
+quote: "Go confidently in the direction of your dreams. Live the life you have imagined.",
+author: "Henry David Thoreau"
+},
+{
+quote: "When I stand before God at the end of my life, I would hope that I would not have a single bit of talent left and could say, I used everything you gave me.",
+author: "Erma Bombeck"
+},
+{
+quote: "Few things can help an individual more than to place responsibility on him, and to let him know that you trust him.",
+author: "Booker T. Washington"
+},
+{
+quote: "Certain things catch your eye, but pursue only those that capture the heart.",
+author: " Ancient Indian Proverb"
+},
+{
+quote: "Believe you can and you’re halfway there.",
+author: "Theodore Roosevelt"
+},
+{
+quote: "Everything you’ve ever wanted is on the other side of fear.",
+author: "George Addair"
+},
+{
+quote: "We can easily forgive a child who is afraid of the dark; the real tragedy of life is when men are afraid of the light.",
+author: "Plato"
+},
+{
+quote: "Teach thy tongue to say, “I do not know,” and thous shalt progress.",
+author: "Maimonides"
+},
+{
+quote: "Start where you are. Use what you have. Do what you can.",
+author: "Arthur Ashe"
+},
+{
+quote: "When I was 5 years old, my mother always told me that happiness was the key to life. When I went to school, they asked me what I wanted to be when I grew up. I wrote down ‘happy’. They told me I didn’t understand the assignment, and I told them they didn’t understand life.",
+author: "John Lennon"
+},
+{
+quote: "Fall seven times and stand up eight.",
+author: "Japanese Proverb"
+},
+{
+quote: "When one door of happiness closes, another opens, but often we look so long at the closed door that we do not see the one that has been opened for us.",
+author: "Helen Keller"
+},
+{
+quote: "Everything has beauty, but not everyone can see.",
+author: "Confucius"
+},
+{
+quote: "How wonderful it is that nobody need wait a single moment before starting to improve the world.",
+author: "Anne Frank"
+},
+{
+quote: "When I let go of what I am, I become what I might be.",
+author: "Lao Tzu"
+},
+{
+quote: "Life is not measured by the number of breaths we take, but by the moments that take our breath away.",
+author: "Maya Angelou"
+},
+{
+quote: "Happiness is not something readymade. It comes from your own actions.",
+author: "Dalai Lama"
+},
+{
+quote: "If you’re offered a seat on a rocket ship, don’t ask what seat! Just get on.",
+author: "Sheryl Sandberg"
+},
+{
+quote: "First, have a definite, clear practical ideal; a goal, an objective. Second, have the necessary means to achieve your ends; wisdom, money, materials, and methods. Third, adjust all your means to that end.",
+author: "Aristotle"
+},
+{
+quote: "If the wind will not serve, take to the oars.",
+author: "Latin Proverb"
+},
+{
+quote: "You can’t fall if you don’t climb. But there’s no joy in living your whole life on the ground.",
+author: "Unknown"
+},
+{
+quote: "We must believe that we are gifted for something, and that this thing, at whatever cost, must be attained.",
+author: "Marie Curie"
+},
+{
+quote: "Too many of us are not living our dreams because we are living our fears.",
+author: "Les Brown"
+},
+{
+quote: "Challenges are what make life interesting and overcoming them is what makes life meaningful.",
+author: "Joshua J. Marine"
+},
+{
+quote: "If you want to lift yourself up, lift up someone else.",
+author: "Booker T. Washington"
+},
+{
+quote: "I have been impressed with the urgency of doing. Knowing is not enough; we must apply. Being willing is not enough; we must do.",
+author: "Leonardo da Vinci"
+},
+{
+quote: "Limitations live only in our minds. But if we use our imaginations, our possibilities become limitless.",
+author: "Jamie Paolinetti"
+},
+{
+quote: "You take your life in your own hands, and what happens? A terrible thing, no one to blame.",
+author: "Erica Jong"
+},
+{
+quote: "What’s money? A man is a success if he gets up in the morning and goes to bed at night and in between does what he wants to do.",
+author: "Bob Dylan"
+},
+{
+quote: "I didn’t fail the test. I just found 100 ways to do it wrong.",
+author: "Benjamin Franklin"
+},
+{
+quote: "In order to succeed, your desire for success should be greater than your fear of failure.",
+author: "Bill Cosby"
+},
+{
+quote: "A person who never made a mistake never tried anything new.",
+author: " Albert Einstein"
+},
+{
+quote: "The person who says it cannot be done should not interrupt the person who is doing it.",
+author: "Chinese Proverb"
+},
+{
+quote: "There are no traffic jams along the extra mile.",
+author: "Roger Staubach"
+},
+{
+quote: "It is never too late to be what you might have been.",
+author: "George Eliot"
+},
+{
+quote: "You become what you believe.",
+author: "Oprah Winfrey"
+},
+{
+quote: "I would rather die of passion than of boredom.",
+author: "Vincent van Gogh"
+},
+{
+quote: "A truly rich man is one whose children run into his arms when his hands are empty.",
+author: "Unknown"
+},
+{
+quote: "It is not what you do for your children, but what you have taught them to do for themselves, that will make them successful human beings.",
+author: "Ann Landers"
+},
+{
+quote: "If you want your children to turn out well, spend twice as much time with them, and half as much money.",
+author: "Abigail Van Buren"
+},
+{
+quote: "Build your own dreams, or someone else will hire you to build theirs.",
+author: "Farrah Gray"
+},
+{
+quote: "The battles that count aren’t the ones for gold medals. The struggles within yourself–the invisible battles inside all of us–that’s where it’s at.",
+author: "Jesse Owens"
+},
+{
+quote: "Education costs money. But then so does ignorance.",
+author: "Sir Claus Moser"
+},
+{
+quote: "I have learned over the years that when one’s mind is made up, this diminishes fear.",
+author: "Rosa Parks"
+},
+{
+quote: "It does not matter how slowly you go as long as you do not stop.",
+author: "Confucius"
+},
+{
+quote: "If you look at what you have in life, you’ll always have more. If you look at what you don’t have in life, you’ll never have enough.",
+author: "Oprah Winfrey"
+},
+{
+quote: "Remember that not getting what you want is sometimes a wonderful stroke of luck.",
+author: "Dalai Lama"
+},
+{
+quote: "You can’t use up creativity. The more you use, the more you have.",
+author: "Maya Angelou"
+},
+{
+quote: "Dream big and dare to fail.",
+author: "Norman Vaughan"
+},
+{
+quote: "Our lives begin to end the day we become silent about things that matter.",
+author: "Martin Luther King Jr."
+},
+{
+quote: "Do what you can, where you are, with what you have.",
+author: "Teddy Roosevelt"
+},
+{
+quote: "If you do what you’ve always done, you’ll get what you’ve always gotten.",
+author: "Tony Robbins"
+},
+{
+quote: "Dreaming, after all, is a form of planning.",
+author: "Gloria Steinem"
+},
+{
+quote: "It’s your place in the world; it’s your life. Go on and do all you can with it, and make it the life you want to live.",
+author: "Mae Jemison"
+},
+{
+quote: "You may be disappointed if you fail, but you are doomed if you don’t try.",
+author: "Beverly Sills"
+},
+{
+quote: "Remember no one can make you feel inferior without your consent.",
+author: "Eleanor Roosevelt"
+},
+{
+quote: "Life is what we make it, always has been, always will be.",
+author: "Grandma Moses"
+},
+{
+quote: "The question isn’t who is going to let me; it’s who is going to stop me.",
+author: "Ayn Rand"
+},
+{
+quote: "When everything seems to be going against you, remember that the airplane takes off against the wind, not with it.",
+author: "Henry Ford"
+},
+{
+quote: "It’s not the years in your life that count. It’s the life in your years.",
+author: "Abraham Lincoln"
+},
+{
+quote: "Change your thoughts and you change your world.",
+author: "Norman Vincent Peale"
+},
+{
+quote: "Either write something worth reading or do something worth writing.",
+author: "Benjamin Franklin"
+},
+{
+quote: "Nothing is impossible, the word itself says, “I’m possible!”",
+author: "–Audrey Hepburn"
+},
+{
+quote: "The only way to do great work is to love what you do.",
+author: "Steve Jobs"
+},
+{
+quote: "If you can dream it, you can achieve it.",
+author: "Zig Ziglar"
+}
+]
